@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TruyenTranhOnline</string>
+    <string name="timkiem">Tìm kiếm</string>
+    <string name="truyenhot">Truyện hot</string>
+    <string name="truyenmoi">Mới cập </string>
+    <string name="chap">Chap</string>
+    <string name="xem">Xem</string>
+    <string name="thich">Thích</string>
+    <string name="noidung">Nội dung</string>
+    <string name="danhsachchap">Danh sách chương</string>
+    <string name="chuacochapmoi">Hiện tại chưa có chap mới !</string>
+</resources>

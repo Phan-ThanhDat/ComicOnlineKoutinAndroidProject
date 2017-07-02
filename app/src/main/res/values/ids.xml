@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="search" type="id"/>
+    <item name="truyenhot" type="id" />
+    <item name="imgHinhTruyen" type="id" />
+    <item name="txtTenTruyen" type="id" />
+    <item name="chapmoi" type="id" />
+    <item name="truyenmoi" type="id" />
+    <item name="xem" type="id" />
+    <item name="thich" type="id" />
+    <item name="txtTenKhac" type="id" />
+    <item name="txtTongDanhGia" type="id" />
+    <item name="txtTongVote" type="id" />
+    <item name="txtChapMoi" type="id" />
+    <item name="txtNoiDungTruyen" type="id" />
+    <item name="imgXemThemNoiDung" type="id" />
+    <item name="recyclerDanhSachChuong" type="id" />
+    <item name="txtTenChap" type="id" />
+    <item name="txtNgayDang" type="id" />
+    <item name="recyclerHienThiTruyen" type="id" />
+    <item name="txtNext" type="id" />
+    <item name="txtPrev" type="id" />
+    <item name="txtChapHienTai" type="id" />
+    <item name="theloai" type="id" />
+    <item name="recyclerTheLoai" type="id" />
+    <item name="txtTenTheLoai" type="id" />
+    <item name="khungNoiDungTrangChu" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="khungHotVaMoi" type="id" />
+    <item name="recyclerTimKiem" type="id" />
+</resources>
